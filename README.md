@@ -78,7 +78,16 @@ $(document).ready(function() {
 ```
 <%= stylesheet_link_tag    'application', 'http://fonts.googleapis.com/css?family=Monoton' %>
 ```
+Apply font by adding the following to application.css:
 
+```css
+.novacancy {
+    font-size: 75px;
+    font-family: 'Monoton', cursive;
+    color: #fff;
+    text-transform: uppercase;
+}
+```
 
 ## Contributing
 
