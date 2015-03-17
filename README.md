@@ -30,12 +30,14 @@ Or install it yourself as:
 Add to application.js:
 
 ```
-//= require jquery.novacancy.min```
+//= require jquery.novacancy.min
+```
 
 **Optional** -  Add to application.css:
 
 ```
-*= require html5reset-1.6.1```
+*= require html5reset-1.6.1
+```
 
 ## Usage
 
@@ -74,7 +76,8 @@ $(document).ready(function() {
 **Optional** - For demo font, add within `<head>` tags in layout:
 
 ```
-<%= stylesheet_link_tag    'application', 'http://fonts.googleapis.com/css?family=Monoton' %>```
+<%= stylesheet_link_tag    'application', 'http://fonts.googleapis.com/css?family=Monoton' %>
+```
 
 
 ## Contributing
