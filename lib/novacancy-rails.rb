@@ -1,5 +1,7 @@
 require "novacancy-rails/version"
 
-module NovacancyRails
-  
+module Novacancy
+  module Rails
+
+  end
 end
