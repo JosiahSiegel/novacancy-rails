@@ -4,6 +4,8 @@
 
 # novacancy-rails
 
+[![Gem Version](https://badge.fury.io/rb/novacancy-rails.svg)](http://badge.fury.io/rb/novacancy-rails)
+
 A gem of [novacancy.js] :
 
 - **[Demo]**
@@ -27,11 +29,13 @@ Or install it yourself as:
     
 Add to application.js:
 
-  //= require jquery.novacancy.min
+```
+//= require jquery.novacancy.min```
 
 **Optional** -  Add to application.css:
 
-  *= require html5reset-1.6.1
+```
+*= require html5reset-1.6.1```
 
 ## Usage
 
@@ -69,7 +73,8 @@ $(document).ready(function() {
 
 **Optional** - For demo font, add within `<head>` tags in layout:
 
-  <%= stylesheet_link_tag    'application', 'http://fonts.googleapis.com/css?family=Monoton' %>
+```
+<%= stylesheet_link_tag    'application', 'http://fonts.googleapis.com/css?family=Monoton' %>```
 
 
 ## Contributing
