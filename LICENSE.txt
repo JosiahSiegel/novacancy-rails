@@ -1,4 +1,4 @@
-Copyright (c) 2015 josiah85
+Copyright (c) 2015 JosiahSiegel
 
 MIT License
 
