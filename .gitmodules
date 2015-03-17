@@ -1,0 +1,3 @@
+[submodule "novacancy.js"]
+	path = novacancy.js
+	url = https://github.com/chuckyglitch/novacancy.js.git
