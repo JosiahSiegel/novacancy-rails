@@ -1,5 +1,5 @@
 [novacancy.js]:https://github.com/chuckyglitch/novacancy.js
-[Demo]:http://chuckyglitch.twbbs.org/novacancy/
+[Demo]:https://chuckyglitch.github.io/novacancy.js/
 [Author]:https://github.com/chuckyglitch
 
 # novacancy-rails
